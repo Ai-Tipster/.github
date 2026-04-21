@@ -1,4 +1,4 @@
-<p align="start">
+<p align="center">
   <img src="https://raw.githubusercontent.com/Ai-Tipster/.github/main/profile/logo.png" width="250">
 </p>
 # ⚽ Advanced AI Sports Tipster & Predictive Analytics
