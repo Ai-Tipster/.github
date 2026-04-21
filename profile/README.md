@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/Ai-Tipster/.github/blob/main/logo.png?raw=true" width="200">
+</p>
 # ⚽ Advanced AI Sports Tipster & Predictive Analytics
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
